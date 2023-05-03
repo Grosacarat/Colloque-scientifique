@@ -1,0 +1,32 @@
+/* INTRO */
+img.imageintro{float: left; margin-left: 50px}
+h1.thème{color: DarkCyan; text-align: left; margin-left: 400px;} 
+h2.info{color: black;margin-left: 400px;}
+h3.adresse{color: black;margin-left: 400px;}
+p.intro{text-align: left; color: black; margin-left: 400px}
+
+/* ORGANISATEUR */
+h2.orga{color: DarkCyan; text-align: center}
+img.imageTD{margin-left: 250px; float: left}
+p.TD{color: DarkCyan; margin-left: 400px;}
+p.td{color: black; text-align: justify; margin-left: 400px;}
+img.imageJI{margin-left: 250px; float: left}
+p.JI{color: DarkCyan; margin-left: 400px;}
+p.ji{color: black; margin-left: 400px;}
+img.imageOUAH{margin-top: 50px; margin-left: 230px}
+
+/* PROGRAMME */
+h2.prog{color: DarkCyan; text-align: center}
+table.tableau{border-style: solid; border-color: black; border-width: 3px; margin-left: 150px}
+td{border-style: solid; border-color: darkcyan; border-width: 2px}
+th{border-style: solid; border-color: darkcyan; color: black; border-width: 2px}
+
+/* INSCRIPTION */
+h2.ins{color: DarkCyan; text-align: center;}
+p.ins{text-align: center}
+table.lien_insc{margin-left: 100px;}
+td.lien_insc{border-style: ridge; border-width: 5px; border-color: darkcyan; background-image: linear-gradient(to bottom, darkcyan, black);}
+a.lien_insc{color: white; margin-left: 20px; margin-right: 20px; cursor: pointer;}
+
+
+
